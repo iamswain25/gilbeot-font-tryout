@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb96a9f3.chunk.css",
+    "main.js": "/static/js/main.feca7047.chunk.js",
+    "main.js.map": "/static/js/main.feca7047.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64a3e5d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64a3e5d2.js.map",
+    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
+    "static/js/2.7b78ad79.chunk.js": "/static/js/2.7b78ad79.chunk.js",
+    "static/js/2.7b78ad79.chunk.js.map": "/static/js/2.7b78ad79.chunk.js.map",
+    "static/js/3.7dd5c49a.chunk.js": "/static/js/3.7dd5c49a.chunk.js",
+    "static/js/3.7dd5c49a.chunk.js.map": "/static/js/3.7dd5c49a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.bb96a9f3.chunk.css.map": "/static/css/main.bb96a9f3.chunk.css.map",
+    "static/js/2.7b78ad79.chunk.js.LICENSE.txt": "/static/js/2.7b78ad79.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Gilbeot_TG.102fad68.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64a3e5d2.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.7b78ad79.chunk.js",
+    "static/css/main.bb96a9f3.chunk.css",
+    "static/js/main.feca7047.chunk.js"
+  ]
+}

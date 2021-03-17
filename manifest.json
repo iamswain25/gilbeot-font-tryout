@@ -1,0 +1,25 @@
+{
+  "short_name": "Gilbeot Font Tryout",
+  "name": "Try out Gilbeot Font",
+  "icons": [
+    {
+      "src": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/rainbow_1f308.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/rainbow_1f308.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "gilbeot.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
