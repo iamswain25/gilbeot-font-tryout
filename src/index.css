@@ -1,13 +1,29 @@
+@font-face {
+  font-family: "Gilbeot_BI";
+  src: local("Gilbeot_BI"),
+    url(./assets/fonts/Gilbeot_BI.otf) format("OpenType");
+}
+@font-face {
+  font-family: "Gilbeot_Rainbow";
+  src: local("Gilbeot_Rainbow.otf"),
+    url(./assets/fonts/Gilbeot_Rainbow.otf) format("OpenType");
+}
+@font-face {
+  font-family: "Gilbeot_TG";
+  src: local("Gilbeot_TG"),
+    url(./assets/fonts/Gilbeot_TG.otf) format("OpenType");
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
