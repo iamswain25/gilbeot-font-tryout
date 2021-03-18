@@ -1,6 +1,7 @@
 import "normalize.css";
 import "./App.css";
 import TextareaAutosize from "react-autosize-textarea";
+import FabricBox from "./components/FabricBox";
 function App() {
   return (
     <section className="container">
@@ -30,6 +31,7 @@ function App() {
           />
         </h2>
       </div>
+      <FabricBox />
     </section>
   );
 }
