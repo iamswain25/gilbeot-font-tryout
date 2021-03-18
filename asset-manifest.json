@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gilbeot-font-tryout/static/css/main.953360c0.chunk.css",
-    "main.js": "/gilbeot-font-tryout/static/js/main.370d86aa.chunk.js",
-    "main.js.map": "/gilbeot-font-tryout/static/js/main.370d86aa.chunk.js.map",
+    "main.js": "/gilbeot-font-tryout/static/js/main.fbc56fd5.chunk.js",
+    "main.js.map": "/gilbeot-font-tryout/static/js/main.fbc56fd5.chunk.js.map",
     "runtime-main.js": "/gilbeot-font-tryout/static/js/runtime-main.7514786a.js",
     "runtime-main.js.map": "/gilbeot-font-tryout/static/js/runtime-main.7514786a.js.map",
     "static/css/2.679831fc.chunk.css": "/gilbeot-font-tryout/static/css/2.679831fc.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.712600ce.chunk.js",
     "static/css/main.953360c0.chunk.css",
-    "static/js/main.370d86aa.chunk.js"
+    "static/js/main.fbc56fd5.chunk.js"
   ]
 }
