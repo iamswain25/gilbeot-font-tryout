@@ -10,6 +10,7 @@ const newText = () =>
   new fabric.IText("길벗체", {
     left: Math.random() * 100,
     top: Math.random() * 100,
+    fontFamily: "Gilbeot_Rainbow",
     fontSize: 250,
     styles: [
       [
