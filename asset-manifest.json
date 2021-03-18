@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/gilbeot-font-tryout/static/css/main.3e9d72ee.chunk.css",
-    "main.js": "/gilbeot-font-tryout/static/js/main.79e23ec8.chunk.js",
-    "main.js.map": "/gilbeot-font-tryout/static/js/main.79e23ec8.chunk.js.map",
-    "runtime-main.js": "/gilbeot-font-tryout/static/js/runtime-main.98d1c252.js",
-    "runtime-main.js.map": "/gilbeot-font-tryout/static/js/runtime-main.98d1c252.js.map",
+    "main.css": "/gilbeot-font-tryout/static/css/main.953360c0.chunk.css",
+    "main.js": "/gilbeot-font-tryout/static/js/main.370d86aa.chunk.js",
+    "main.js.map": "/gilbeot-font-tryout/static/js/main.370d86aa.chunk.js.map",
+    "runtime-main.js": "/gilbeot-font-tryout/static/js/runtime-main.7514786a.js",
+    "runtime-main.js.map": "/gilbeot-font-tryout/static/js/runtime-main.7514786a.js.map",
     "static/css/2.679831fc.chunk.css": "/gilbeot-font-tryout/static/css/2.679831fc.chunk.css",
-    "static/js/2.ea5e69a6.chunk.js": "/gilbeot-font-tryout/static/js/2.ea5e69a6.chunk.js",
-    "static/js/2.ea5e69a6.chunk.js.map": "/gilbeot-font-tryout/static/js/2.ea5e69a6.chunk.js.map",
-    "static/js/3.d5a04648.chunk.js": "/gilbeot-font-tryout/static/js/3.d5a04648.chunk.js",
-    "static/js/3.d5a04648.chunk.js.map": "/gilbeot-font-tryout/static/js/3.d5a04648.chunk.js.map",
+    "static/js/2.712600ce.chunk.js": "/gilbeot-font-tryout/static/js/2.712600ce.chunk.js",
+    "static/js/2.712600ce.chunk.js.map": "/gilbeot-font-tryout/static/js/2.712600ce.chunk.js.map",
+    "static/js/3.3dbfedb0.chunk.js": "/gilbeot-font-tryout/static/js/3.3dbfedb0.chunk.js",
+    "static/js/3.3dbfedb0.chunk.js.map": "/gilbeot-font-tryout/static/js/3.3dbfedb0.chunk.js.map",
     "index.html": "/gilbeot-font-tryout/index.html",
     "static/css/2.679831fc.chunk.css.map": "/gilbeot-font-tryout/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.3e9d72ee.chunk.css.map": "/gilbeot-font-tryout/static/css/main.3e9d72ee.chunk.css.map",
-    "static/js/2.ea5e69a6.chunk.js.LICENSE.txt": "/gilbeot-font-tryout/static/js/2.ea5e69a6.chunk.js.LICENSE.txt",
+    "static/css/main.953360c0.chunk.css.map": "/gilbeot-font-tryout/static/css/main.953360c0.chunk.css.map",
+    "static/js/2.712600ce.chunk.js.LICENSE.txt": "/gilbeot-font-tryout/static/js/2.712600ce.chunk.js.LICENSE.txt",
     "static/media/index.css": "/gilbeot-font-tryout/static/media/Gilbeot_TG.102fad68.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.98d1c252.js",
+    "static/js/runtime-main.7514786a.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.ea5e69a6.chunk.js",
-    "static/css/main.3e9d72ee.chunk.css",
-    "static/js/main.79e23ec8.chunk.js"
+    "static/js/2.712600ce.chunk.js",
+    "static/css/main.953360c0.chunk.css",
+    "static/js/main.370d86aa.chunk.js"
   ]
 }
